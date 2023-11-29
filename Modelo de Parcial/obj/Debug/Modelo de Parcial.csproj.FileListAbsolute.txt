@@ -1,0 +1,20 @@
+C:\Users\claud\OneDrive\Escritorio\C#\Modelo de Parcial\bin\Debug\Modelo de Parcial.exe.config
+C:\Users\claud\OneDrive\Escritorio\C#\Modelo de Parcial\bin\Debug\Modelo de Parcial.exe
+C:\Users\claud\OneDrive\Escritorio\C#\Modelo de Parcial\bin\Debug\Modelo de Parcial.pdb
+C:\Users\claud\OneDrive\Escritorio\C#\Modelo de Parcial\obj\Debug\Modelo de Parcial.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Escritorio\C#\Modelo de Parcial\obj\Debug\Modelo_de_Parcial.frmPrincipal.resources
+C:\Users\claud\OneDrive\Escritorio\C#\Modelo de Parcial\obj\Debug\Modelo_de_Parcial.Properties.Resources.resources
+C:\Users\claud\OneDrive\Escritorio\C#\Modelo de Parcial\obj\Debug\Modelo de Parcial.csproj.GenerateResource.cache
+C:\Users\claud\OneDrive\Escritorio\C#\Modelo de Parcial\obj\Debug\Modelo de Parcial.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Escritorio\C#\Modelo de Parcial\obj\Debug\Modelo de Parcial.exe
+C:\Users\claud\OneDrive\Escritorio\C#\Modelo de Parcial\obj\Debug\Modelo de Parcial.pdb
+I:\Proyectos\Parcial\Modelo de Parcial\obj\Debug\Modelo de Parcial.csproj.AssemblyReference.cache
+I:\Proyectos\Parcial\Modelo de Parcial\obj\Debug\Modelo_de_Parcial.frmPrincipal.resources
+I:\Proyectos\Parcial\Modelo de Parcial\obj\Debug\Modelo_de_Parcial.Properties.Resources.resources
+I:\Proyectos\Parcial\Modelo de Parcial\obj\Debug\Modelo de Parcial.csproj.GenerateResource.cache
+I:\Proyectos\Parcial\Modelo de Parcial\obj\Debug\Modelo de Parcial.csproj.CoreCompileInputs.cache
+I:\Proyectos\Parcial\Modelo de Parcial\obj\Debug\Modelo de Parcial.exe
+I:\Proyectos\Parcial\Modelo de Parcial\obj\Debug\Modelo de Parcial.pdb
+I:\Proyectos\Parcial\Modelo de Parcial\bin\Debug\Modelo de Parcial.exe.config
+I:\Proyectos\Parcial\Modelo de Parcial\bin\Debug\Modelo de Parcial.exe
+I:\Proyectos\Parcial\Modelo de Parcial\bin\Debug\Modelo de Parcial.pdb
